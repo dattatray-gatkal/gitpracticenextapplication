@@ -9,7 +9,6 @@ const page = () => {
       <h2>Adding widgets and charts</h2>
       <h2>Working on responsiveness</h2>{" "}
       <h2>developer 2 has its own dashboard code</h2>
-      <h2>updated profile code stuff</h2>
     </div>
   );
 };
